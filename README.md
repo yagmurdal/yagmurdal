@@ -1,7 +1,4 @@
 # 🐯 running there
-
-#
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yagmurdal)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yagmurdal)
 [![Dev.to](https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yagmurdal)
